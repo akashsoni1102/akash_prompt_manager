@@ -553,7 +553,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ## 📝 License
 
-MIT License - see [LICENSE](LICENSE) file for details.
+GNU GENERAL PUBLIC LICENSE - see [LICENSE](LICENSE) file for details.
 
 Copyright (c) 2025 Akash Soni
 
