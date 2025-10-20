@@ -549,7 +549,6 @@ Copyright (c) 2025 Akash Soni
 
 - Inspired by ComfyUI-Lora-Manager
 - Built for the ComfyUI community
-- Thanks to all contributors and testers
 
 ---
 
