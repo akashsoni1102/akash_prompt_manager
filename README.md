@@ -537,20 +537,6 @@ akash_prompt_manager/
 
 ---
 
-## 🤝 Contributing
-
-Contributions welcome! Please:
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open Pull Request
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
-
----
-
 ## 📝 License
 
 GNU GENERAL PUBLIC LICENSE - see [LICENSE](LICENSE) file for details.
